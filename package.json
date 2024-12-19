@@ -1,0 +1,21 @@
+{
+  "name": "image-samples",
+  "version": "1.0.0",
+  "description": "Image samples",
+  "keywords": [
+    "image",
+    "images",
+    "samples",
+    "sample"
+  ],
+  "author": "https://github.com/Zhliyun",
+  "license": "ISC",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
